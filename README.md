@@ -1,8 +1,4 @@
-- 👋 Hi, I’m @justinwellis
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning C# with ASP.NET
-- 💞️ I’m looking to collaborate on AddOn development for Elder Scrolls Online
-- 📫 How to reach me ...
+- 👋 Hi, I’m Justin.
 
 <!---
 justinwellis/justinwellis is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
